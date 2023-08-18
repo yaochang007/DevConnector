@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://yaochang007:MERNDev123-@cluster0-sg-test.jrl7ekx.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"johnyaosecrettoken"
+}
